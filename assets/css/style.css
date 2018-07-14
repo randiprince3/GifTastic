@@ -1,0 +1,14 @@
+body {
+    font-family: sans-serif;
+    
+}
+
+
+#animals {
+    text-align: center;
+}
+
+#animal-form {
+    float: right;
+    margin-right: 50px;
+}
